@@ -33,9 +33,9 @@
                 }
             },
             "XQuickEnergy": {
-                "source_package": "pansong291.xposed.quickenergy",
+                "source_package": "pansong291.xposed.quickenergy.qiufeng",
                 "paths": [
-                    "Android/data/pansong291.xposed.quickenergy"
+                    "Android/data/pansong291.xposed.quickenergy.qiufeng"
                 ],
                 "description": {
                     "zh_CN": "尝试修复 <b>XQuickEnergy</b> 失效",
